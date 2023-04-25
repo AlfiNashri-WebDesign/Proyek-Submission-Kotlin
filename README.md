@@ -1,6 +1,6 @@
 # Proyek Submission MPK 
 
-**Aturan mengerjakan submission**<br>
+**Aturan mengerjakan submission dengan intellij IDEA**<br>
 Agar tugas submission dapat diperiksa dan diterima dengan baik, sebaiknya hindari beberapa hal berikut:
 
 - Mengubah kode yang berada di dalam fungsi main()

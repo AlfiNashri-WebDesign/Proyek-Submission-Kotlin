@@ -21,3 +21,5 @@ Tugas Dicoding Memulai Pemrograman Dengan Kotlin Tanggal 25 April 2023 <br>
 
 > baru kerjakan yg ada Diminta TO DO <br>
 > di terminal : gradle test, jika smua berhasil, tugas selesai <br>
+
+![tugasnya dicoding](https://user-images.githubusercontent.com/23645665/235305861-4f51f0d4-94ad-4d52-91fc-8c84e2c46578.png)
